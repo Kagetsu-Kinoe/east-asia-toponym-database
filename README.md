@@ -1,4 +1,4 @@
-﻿# 東アジア地名のアイヌ語解釈
+# 東アジア地名のアイヌ語解釈
 
 **坂東の雲／木上欠月**
 
@@ -9,5 +9,6 @@
 | 『三国史記』地理志 | [`east-asia-toponym-database/samguk-sagi/data/`](east-asia-toponym-database/samguk-sagi/data/) |
 | 中国漢代県名 | [`east-asia-toponym-database/han-dynasty/data/`](east-asia-toponym-database/han-dynasty/data/) |
 | 『山海経』地名・妖怪 | [`east-asia-toponym-database/sengaikyo/data/`](east-asia-toponym-database/sengaikyo/data/) |
+| 『尚書』禹貢 | [`east-asia-toponym-database/ukou/data/`](east-asia-toponym-database/ukou/data/) |
 
 各フォルダに README・LICENSE・CSV・閲覧用 Markdown を置いています。
