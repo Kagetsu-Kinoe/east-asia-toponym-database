@@ -6,9 +6,9 @@
 
 中国漢代の県名はすべてアイヌ語解釈可能です。中原から蔑まれた四夷こそが中国先住民で、殷の方が侵略者であったことを、それは示しています。対になるデータは、[中国漢代県名のアイヌ語解釈](../../han-dynasty/data/README.md)、[『三国史記』地理志　全地名のアイヌ語解釈](../../samguk-sagi/data/README.md) です。
 
-山海経は、五蔵山経、海外四経、海内四経、大荒四経、海内経から構成されています。本稿では、比定地が一部判明している海内四経と、五蔵山経のうち西山首経の山岳をアイヌ語解釈しています。妖怪たちの解釈が地勢と一致する様を、是非ご覧ください。
+山海経は、五蔵山経、海外四経、海内四経、大荒四経、海内経から構成されています。本稿では、比定地が一部判明している海内四経と、五蔵山経のうち西山経の山岳をアイヌ語解釈しています。妖怪たちの解釈が地勢と一致する様を、是非ご覧ください。
 
-掲載順は、日本に関係の深い「倭」（海内北経の特別編）、海内南経、海内西経、海内北経、海内東経、西山首経です。
+掲載順は、日本に関係の深い「倭」（海内北経の特別編）、海内南経、海内西経、海内北経、海内東経、西山経です。
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 音韻
 
-上古音の配列は、次のとおりです。西山首経の一部には随唐音もあります。
+上古音の配列は、次のとおりです。西山経の一部には随唐音もあります。
 
 **高本漢系統／王力系統／董同龢系統／周法高系統／李方桂系統**
 
@@ -60,12 +60,12 @@
 
 | 欄 | 内容 |
 | --- | --- |
-| 篇名 | 海内四経・西山首経など、本文の回に対応する篇 |
+| 篇名 | 海内四経・西山経など、本文の回に対応する篇 |
 | 条 | 本文の「■■■」見出し |
 | 見出し | 「◎アイヌ語：」に記された地名・妖怪名 |
 | 山海経訳 | 「◇山海経訳」の訳文 |
 | 現行地 | 「比定地：」に記された比定。空のときは項目を出さない |
-| 距離補正 | 西山首経の里程換算。空のときは項目を出さない |
+| 距離補正 | 西山経の里程換算。空のときは項目を出さない |
 | 音韻データ | 上古音・随唐音 |
 | アイヌ語解釈 | カタカナ・ローマ字・日本語義 |
 
@@ -79,16 +79,16 @@
 
 | 篇 | ファイル | 件数 | 本文 |
 | --- | ---: | ---: | --- |
-| 特別編：海内北経の倭国について | [01-特別編：海内北経の倭国について.md](docs/01-特別編：海内北経の倭国について.md) | 17 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
-| 海内南経 | [02-海内南経.md](docs/02-海内南経.md) | 20 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
-| 海内西経 | [03-海内西経.md](docs/03-海内西経.md) | 25 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
-| 海内北経 | [04-海内北経.md](docs/04-海内北経.md) | 18 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
-| 海内東経 | [05-海内東経.md](docs/05-海内東経.md) | 10 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
-| 西山首経 | [06-西山首経.md](docs/06-西山首経.md) | 35 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 特別編：海内北経の倭国について | [01-特別編：海内北経の倭国について.md](docs/01-特別編：海内北経の倭国について.md) | 20 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 海内南経 | [02-海内南経.md](docs/02-海内南経.md) | 55 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 海内西経 | [03-海内西経.md](docs/03-海内西経.md) | 72 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 海内北経 | [04-海内北経.md](docs/04-海内北経.md) | 59 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 海内東経 | [05-海内東経.md](docs/05-海内東経.md) | 13 | [jomon2_bnum68.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) |
+| 西山経 | [06-西山経.md](docs/06-西山経.md) | 216 | [jomon2_bnum69.html](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum69.html) |
 
-全件CSV: [sengaikyo-ainu.csv](sengaikyo-ainu.csv)　／　合計 **125** 件。
+全件CSV: [sengaikyo-ainu.csv](sengaikyo-ainu.csv)　／　合計 **435** 件。
 
-序と方法の本文は、[第五百四十五回](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) に記しています。
+序と方法の本文は、[第五百四十五回](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum68.html) に記しています。西山経は [第五百五十回](https://bandonokumo.net/east-asia-toponym-database/sengaikyo/jomon2_bnum69.html) です。
 
 ---
 
