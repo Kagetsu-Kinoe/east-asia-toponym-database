@@ -73,7 +73,7 @@
 | 欄 | 内容 |
 | --- | --- |
 | 資料 | 居延漢簡・懸泉漢簡など、出土資料の名 |
-| 分類 | 防衛組織・軍事要塞／のろし台（熢）／一般行政区画（郷・里）／シルクロード河西回廊全駅 |
+| 分類 | 防衛組織・軍事要塞／のろし台（熢）／一般行政区画（郷・里）／シルクロード河西回廊全駅、主要行政・軍事拠点 |
 | 区画 | 東郷・西郷・南郷・別行政区画、または置駅の一覧見出し。軍事地名では空 |
 | 所属郡 | 懸泉漢簡の「漢代の所属郡」。居延漢簡では空 |
 | 見出し | 本文の「■」に記された地名 |
@@ -99,7 +99,7 @@
 | 西郷 | [04-西郷.md](docs/04-西郷.md) | 6 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 | 南郷 | [05-南郷.md](docs/05-南郷.md) | 8 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 | 別行政区画 | [06-別行政区画.md](docs/06-別行政区画.md) | 1 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| シルクロード河西回廊・主要置駅 | [07-シルクロード河西回廊・主要置駅の一覧（東から西への地理的順序）.md](docs/07-シルクロード河西回廊・主要置駅の一覧（東から西への地理的順序）.md) | 26 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| シルクロード河西回廊全駅 | [07-シルクロード河西回廊全駅（東から西への地理的順序）.md](docs/07-シルクロード河西回廊全駅（東から西への地理的順序）.md) | 26 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 | 敦煌郡内の主要行政・軍事拠点 | [08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md](docs/08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md) | 2 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 
 全件CSV: [bamboo-wooden-slips-ainu.csv](bamboo-wooden-slips-ainu.csv)　／　合計 **74** 件。
