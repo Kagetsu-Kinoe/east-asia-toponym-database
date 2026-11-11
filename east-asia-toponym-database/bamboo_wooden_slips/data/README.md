@@ -72,10 +72,10 @@
 
 | 欄 | 内容 |
 | --- | --- |
-| 資料 | 居延漢簡・懸泉漢簡など、出土資料の名 |
-| 分類 | 防衛組織・軍事要塞／のろし台（熢）／一般行政区画（郷・里）／シルクロード河西回廊全駅、主要行政・軍事拠点 |
-| 区画 | 東郷・西郷・南郷・別行政区画、または置駅の一覧見出し。軍事地名では空 |
-| 所属郡 | 懸泉漢簡の「漢代の所属郡」。居延漢簡では空 |
+| 資料 | 居延漢簡・懸泉漢簡・里耶秦簡など、出土資料の名 |
+| 分類 | 防衛組織・軍事要塞／のろし台（熢）／一般行政区画（郷・里）／シルクロード河西回廊全駅、主要行政・軍事拠点／遷陵県および周辺の県・郡 |
+| 区画 | 東郷・西郷・南郷・別行政区画、置駅の一覧見出し、遷陵県（出土地・最前線軍事要塞）、周辺の県・郡。軍事地名では空 |
+| 所属郡 | 懸泉漢簡の「漢代の所属郡」。居延漢簡・里耶秦簡では空 |
 | 見出し | 本文の「■」に記された地名 |
 | 比定地／地勢 | 「比定地／地勢」「比定地」「地勢（通説）」「地勢／位置関係」 |
 | 遺跡番号 | 「遺跡番号／位置関係」または「遺跡」。郷の見出しに付された番号は、その郷の里が継承します |
@@ -89,7 +89,7 @@
 
 ## 分類別データ
 
-全件の正本は CSV です。分類・区画ごとの Markdown は `docs/` に置く閲覧用です。掲載順は本文（第五百五十三回～第五百五十六回）に従います。
+全件の正本は CSV です。分類・区画ごとの Markdown は `docs/` に置く閲覧用です。掲載順は本文（第五百五十三回～第五百五十七回）に従います。
 
 | 分類 | ファイル | 件数 | 本文 |
 | --- | --- | ---: | --- |
@@ -101,10 +101,12 @@
 | 別行政区画 | [06-別行政区画.md](docs/06-別行政区画.md) | 1 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 | シルクロード河西回廊全駅 | [07-シルクロード河西回廊全駅（東から西への地理的順序）.md](docs/07-シルクロード河西回廊全駅（東から西への地理的順序）.md) | 26 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 | 敦煌郡内の主要行政・軍事拠点 | [08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md](docs/08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md) | 2 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 遷陵県（出土地・最前線軍事要塞） | [09-遷陵県（出土地・最前線軍事要塞）.md](docs/09-遷陵県（出土地・最前線軍事要塞）.md) | 20 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 周辺の県・郡 | [10-周辺の県・郡.md](docs/10-周辺の県・郡.md) | 29 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
 
-全件CSV: [bamboo-wooden-slips-ainu.csv](bamboo-wooden-slips-ainu.csv)　／　合計 **74** 件。
+全件CSV: [bamboo-wooden-slips-ainu.csv](bamboo-wooden-slips-ainu.csv)　／　合計 **123** 件。
 
-序と方法の本文は、[第五百五十三回](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) に記しています。現在の抽出は『居延漢簡』と『懸泉漢簡』です。
+序と方法の本文は、[第五百五十三回](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) に記しています。現在の抽出は『居延漢簡』『懸泉漢簡』『里耶秦簡』です。
 
 ---
 
