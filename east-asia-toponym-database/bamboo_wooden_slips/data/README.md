@@ -91,31 +91,31 @@
 
 ## 分類別データ
 
-全件の正本は CSV です。分類・区画ごとの Markdown は `docs/` に置く閲覧用です。掲載順は本文（第五百五十三回～第五百六十回）に従います。
+全件の正本は CSV です。分類・区画ごとの Markdown は `docs/` に置く閲覧用です。掲載順は木簡の種類（『居延漢簡』『懸泉漢簡』『里耶秦簡』『包山楚簡』『敦煌周辺その他木簡』）ごとです。
 
-| 分類 | ファイル | 件数 | 本文 |
-| --- | --- | ---: | --- |
-| 防衛組織・軍事要塞 | [01-防衛組織・軍事要塞.md](docs/01-防衛組織・軍事要塞.md) | 12 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| のろし台（熢） | [02-のろし台（熢）.md](docs/02-のろし台（熢）.md) | 12 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 東郷 | [03-東郷.md](docs/03-東郷.md) | 7 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 西郷 | [04-西郷.md](docs/04-西郷.md) | 6 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 南郷 | [05-南郷.md](docs/05-南郷.md) | 8 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 別行政区画 | [06-別行政区画.md](docs/06-別行政区画.md) | 1 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| シルクロード河西回廊全駅 | [07-シルクロード河西回廊全駅（東から西への地理的順序）.md](docs/07-シルクロード河西回廊全駅（東から西への地理的順序）.md) | 26 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 敦煌郡内の主要行政・軍事拠点 | [08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md](docs/08-懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md) | 2 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 遷陵県（出土地・最前線軍事要塞） | [09-遷陵県（出土地・最前線軍事要塞）.md](docs/09-遷陵県（出土地・最前線軍事要塞）.md) | 20 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 周辺の県・郡 | [10-周辺の県・郡.md](docs/10-周辺の県・郡.md) | 29 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
-| 敦煌周辺の烽燧・関所・候官 | [11-敦煌周辺の烽燧・関所・候官.md](docs/11-敦煌周辺の烽燧・関所・候官.md) | 21 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 玉門関の周辺地名 | [12-玉門関の周辺地名.md](docs/12-玉門関の周辺地名.md) | 4 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 敦煌中部都尉管轄烽燧の周辺地名 | [13-敦煌中部都尉管轄烽燧の周辺地名.md](docs/13-敦煌中部都尉管轄烽燧の周辺地名.md) | 3 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 廣至県治／宜禾都尉府の周辺地名 | [14-廣至県治／宜禾都尉府の周辺地名.md](docs/14-廣至県治／宜禾都尉府の周辺地名.md) | 1 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 鄢 | [15-鄢.md](docs/15-鄢.md) | 8 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 陰 | [16-陰.md](docs/16-陰.md) | 3 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
-| 下蔡 | [17-下蔡.md](docs/17-下蔡.md) | 5 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 木簡 | 分類 | ファイル | 件数 | 本文 |
+| --- | --- | --- | ---: | --- |
+| 居延漢簡 | 防衛組織・軍事要塞 | [01-『居延漢簡』_防衛組織・軍事要塞.md](docs/01-『居延漢簡』_防衛組織・軍事要塞.md) | 12 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 居延漢簡 | のろし台（熢） | [02-『居延漢簡』_のろし台（熢）.md](docs/02-『居延漢簡』_のろし台（熢）.md) | 12 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 居延漢簡 | 東郷 | [03-『居延漢簡』_東郷.md](docs/03-『居延漢簡』_東郷.md) | 7 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 居延漢簡 | 西郷 | [04-『居延漢簡』_西郷.md](docs/04-『居延漢簡』_西郷.md) | 6 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 居延漢簡 | 南郷 | [05-『居延漢簡』_南郷.md](docs/05-『居延漢簡』_南郷.md) | 8 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 居延漢簡 | 別行政区画 | [06-『居延漢簡』_別行政区画.md](docs/06-『居延漢簡』_別行政区画.md) | 1 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 懸泉漢簡 | シルクロード河西回廊全駅 | [07-『懸泉漢簡』_シルクロード河西回廊全駅（東から西への地理的順序）.md](docs/07-『懸泉漢簡』_シルクロード河西回廊全駅（東から西への地理的順序）.md) | 26 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 懸泉漢簡 | 敦煌郡内の主要行政・軍事拠点 | [08-『懸泉漢簡』_懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md](docs/08-『懸泉漢簡』_懸泉漢簡に関連する敦煌郡内の主要行政・軍事拠点.md) | 2 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 里耶秦簡 | 遷陵県（出土地・最前線軍事要塞） | [09-『里耶秦簡』_遷陵県（出土地・最前線軍事要塞）.md](docs/09-『里耶秦簡』_遷陵県（出土地・最前線軍事要塞）.md) | 20 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 里耶秦簡 | 周辺の県・郡 | [10-『里耶秦簡』_周辺の県・郡.md](docs/10-『里耶秦簡』_周辺の県・郡.md) | 29 | [jomon2_bnum71.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) |
+| 包山楚簡 | 鄢 | [11-『包山楚簡』_鄢.md](docs/11-『包山楚簡』_鄢.md) | 8 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 包山楚簡 | 陰 | [12-『包山楚簡』_陰.md](docs/12-『包山楚簡』_陰.md) | 3 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 包山楚簡 | 下蔡 | [13-『包山楚簡』_下蔡.md](docs/13-『包山楚簡』_下蔡.md) | 5 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 敦煌周辺その他木簡 | 敦煌周辺の烽燧・関所・候官 | [14-『敦煌周辺その他木簡』_敦煌周辺の烽燧・関所・候官.md](docs/14-『敦煌周辺その他木簡』_敦煌周辺の烽燧・関所・候官.md) | 21 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 敦煌周辺その他木簡 | 玉門関の周辺地名 | [15-『敦煌周辺その他木簡』_玉門関の周辺地名.md](docs/15-『敦煌周辺その他木簡』_玉門関の周辺地名.md) | 4 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 敦煌周辺その他木簡 | 敦煌中部都尉管轄烽燧の周辺地名 | [16-『敦煌周辺その他木簡』_敦煌中部都尉管轄烽燧の周辺地名.md](docs/16-『敦煌周辺その他木簡』_敦煌中部都尉管轄烽燧の周辺地名.md) | 3 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
+| 敦煌周辺その他木簡 | 廣至県治／宜禾都尉府の周辺地名 | [17-『敦煌周辺その他木簡』_廣至県治／宜禾都尉府の周辺地名.md](docs/17-『敦煌周辺その他木簡』_廣至県治／宜禾都尉府の周辺地名.md) | 1 | [jomon2_bnum72.html](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum72.html) |
 
 全件CSV: [bamboo-wooden-slips-ainu.csv](bamboo-wooden-slips-ainu.csv)　／　合計 **168** 件。
 
-序と方法の本文は、[第五百五十三回](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) に記しています。現在の抽出は『居延漢簡』『懸泉漢簡』『里耶秦簡』、敦煌周辺漢簡、『包山楚簡』です。
+序と方法の本文は、[第五百五十三回](https://bandonokumo.net/east-asia-toponym-database/bamboo_wooden_slips/jomon2_bnum71.html) に記しています。現在の抽出は『居延漢簡』『懸泉漢簡』『里耶秦簡』『包山楚簡』『敦煌周辺その他木簡』です。
 
 ---
 
