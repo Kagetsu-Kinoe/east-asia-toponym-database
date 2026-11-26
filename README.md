@@ -10,6 +10,6 @@
 | 中国漢代県名 | [`east-asia-toponym-database/han-dynasty/data/`](east-asia-toponym-database/han-dynasty/data/) |
 | 『尚書』禹貢 | [`east-asia-toponym-database/ukou/data/`](east-asia-toponym-database/ukou/data/) |
 | 『山海経』地名・妖怪 | [`east-asia-toponym-database/sengaikyo/data/`](east-asia-toponym-database/sengaikyo/data/) |
-| 古代中国木簡竹簡 | [`east-asia-toponym-database/bamboo_wooden_slips/data/`](east-asia-toponym-database/bamboo_wooden_slips/data/) |
+| アイヌ語一万年の歴史 四夷諸国地名解読（木簡竹簡、『蛮書』ほか） | [`east-asia-toponym-database/bamboo_wooden_slips/data/`](east-asia-toponym-database/bamboo_wooden_slips/data/) |
 
 各フォルダに README・LICENSE・CSV・閲覧用 Markdown を置いています。
